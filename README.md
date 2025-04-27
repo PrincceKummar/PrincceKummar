@@ -32,3 +32,8 @@
 You can add this code at the bottom of your README for auto-updating stats:
 
 ![Princce's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrincceKummar&show_icons=true&theme=radical)
+
+---
+
+### 👀 Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/PrincceKummar/count.svg)
