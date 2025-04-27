@@ -33,7 +33,10 @@ You can add this code at the bottom of your README for auto-updating stats:
 
 ![Princce's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrincceKummar&show_icons=true&theme=radical)
 
----
+# 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PrincceKummar&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</p>
 
-### 👀 Visitor Count
+# 👀 Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/PrincceKummar/count.svg)
