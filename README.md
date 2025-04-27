@@ -8,8 +8,6 @@
 📈 Focused on creating visually compelling, actionable reports that drive results.  
 💬 Ask me about Data Analysis, Power BI, Excel, Dashboards, and Problem-Solving!
 
----
-
 # 🚀 Skills & Tools:
 - Power BI (Dashboards, DAX, Data Modeling)
 - Microsoft Excel (Pivot Tables, Advanced Formulas)
@@ -18,25 +16,17 @@
 - Data Storytelling
 - Problem-Solving & Decision-Making
 
----
-
 # 📫 How to reach me:
-- **LinkedIn:** [Your LinkedIn Profile Link Here]
-- **Email:** [Your Email Address Here]
+- **LinkedIn:** (https://www.linkedin.com/in/princcekummar?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bn4NhAjqOSse01yDcQi%2FfxA%3D%3D)
+- **Email:** [princcekummar9@gmail.com]
 - **GitHub:** [https://github.com/PrincceKummar](https://github.com/PrincceKummar)
-
----
 
 # ✨ Fun Fact:
 > I believe that "A good dashboard not only shows the data — it tells a story behind the numbers."
 
----
-
 # 📊 Recent Projects
 - **Sales Dashboard in Power BI** — Dynamic analysis of sales trends, region-wise breakdowns, and KPI tracking.
 - **Customer Analysis** — Identifying key customer segments and behavior patterns through interactive reports.
-
----
 
 # 📈 GitHub Stats (Optional - Looks Cool)
 You can add this code at the bottom of your README for auto-updating stats:
