@@ -38,5 +38,14 @@ You can add this code at the bottom of your README for auto-updating stats:
   <img src="https://github-profile-trophy.vercel.app/?username=PrincceKummar&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
+# 🌟 Featured Projects
+
+| Project | Description | Tools Used |
+| :--- | :--- | :--- |
+| [Sales Analysis Dashboard](https://github.com/PrincceKummar/Sales-Dashboard-PowerBI) | An interactive dashboard analyzing sales trends, top-performing products, regional performance, and KPIs. | Power BI, DAX, Excel |
+| [Customer Segmentation Report](https://github.com/PrincceKummar/Customer-Segmentation-PowerBI) | Identified customer groups using purchasing behavior to drive marketing strategies. | Power BI, Data Modeling, Excel |
+| [Financial Report Dashboard](https://github.com/PrincceKummar/Financial-Dashboard-PowerBI) | Built a finance dashboard tracking revenue, expenses, profit margins across departments and time periods. | Power BI, DAX |
+| [Employee Performance Tracker](https://github.com/PrincceKummar/Employee-Performance-Tracker) | Visualized employee KPIs, training status, and department-wise efficiency metrics. | Power BI, Excel |
+
 # 👀 Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/PrincceKummar/count.svg)
