@@ -38,11 +38,13 @@ You can add this code at the bottom of your README for auto-updating stats:
 
 Power BI dashboard analyzing retail sales, customer behavior, and returns to drive data-informed business decisions.
 
+Interactive Power BI dashboard transforming complex financial data into clear, actionable insights on sales, costs, profits, and performance across markets and segments.
+
 | Project | Description | Tools Used |
 | :--- | :--- | :--- |
 | [Sales Analysis Dashboard in Power BI](https://github.com/PrincceKummar/Power_BI_Sales_dashboard_Project) | An interactive dashboard analyzing sales trends, top-performing products, regional performance, and KPIs. | Power BI, DAX,|
 | [Retail Mega Market Power-BI Dashboard](https://github.com/PrincceKummar/Retail_Mega-Market_Power-BI_dashboard?tab=readme-ov-file) | Power BI dashboard analyzing retail sales, customer behavior, and returns to drive data-informed business decisions. | Power BI, Data Modeling,|
-| [Financial Report Dashboard](https://github.com/PrincceKummar/Financial-Dashboard-PowerBI) | Built a finance dashboard tracking revenue, expenses, profit margins across departments and time periods. | Power BI, DAX |
+| [Global Financial Performance Dashboard](https://github.com/PrincceKummar/Global-Financial-Performance-Dashboard) | Built an interactive finance dashboard transforming complex financial data into clear, actionable insights on sales, costs, profits, and performance across markets and segments. | Power BI, DAX |
 | [Employee Performance Tracker](https://github.com/PrincceKummar/Employee-Performance-Tracker) | Visualized employee KPIs, training status, and department-wise efficiency metrics. | Power BI, Excel |
 
 # 👀 Visitor Count
