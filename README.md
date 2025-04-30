@@ -24,10 +24,6 @@
 # ✨ Fun Fact:
 > I believe that "A good dashboard not only shows the data — it tells a story behind the numbers."
 
-# 📊 Recent Projects
-- **Sales Dashboard in Power BI** — Dynamic analysis of sales trends, region-wise breakdowns, and KPI tracking.
-- **Customer Analysis** — Identifying key customer segments and behavior patterns through interactive reports.
-
 # 📈 GitHub Stats (Optional - Looks Cool)
 You can add this code at the bottom of your README for auto-updating stats:
 
