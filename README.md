@@ -40,9 +40,11 @@ You can add this code at the bottom of your README for auto-updating stats:
 
 # 🌟 Featured Projects
 
+https://github.com/PrincceKummar/Power_BI_Sales_dashboard_Project
+
 | Project | Description | Tools Used |
 | :--- | :--- | :--- |
-| [Sales Analysis Dashboard](https://github.com/PrincceKummar/Sales-Dashboard-PowerBI) | An interactive dashboard analyzing sales trends, top-performing products, regional performance, and KPIs. | Power BI, DAX, Excel |
+| [Sales Analysis Dashboard in Power BI](https://github.com/PrincceKummar/Power_BI_Sales_dashboard_Project) | An interactive dashboard analyzing sales trends, top-performing products, regional performance, and KPIs. | Power BI, DAX, Excel |
 | [Customer Segmentation Report](https://github.com/PrincceKummar/Customer-Segmentation-PowerBI) | Identified customer groups using purchasing behavior to drive marketing strategies. | Power BI, Data Modeling, Excel |
 | [Financial Report Dashboard](https://github.com/PrincceKummar/Financial-Dashboard-PowerBI) | Built a finance dashboard tracking revenue, expenses, profit margins across departments and time periods. | Power BI, DAX |
 | [Employee Performance Tracker](https://github.com/PrincceKummar/Employee-Performance-Tracker) | Visualized employee KPIs, training status, and department-wise efficiency metrics. | Power BI, Excel |
