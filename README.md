@@ -36,9 +36,7 @@ You can add this code at the bottom of your README for auto-updating stats:
 
 # 🌟 Featured Projects
 
-Power BI dashboard analyzing retail sales, customer behavior, and returns to drive data-informed business decisions.
-
-Interactive Power BI dashboard transforming complex financial data into clear, actionable insights on sales, costs, profits, and performance across markets and segments.
+Interactive Power BI dashboard transforming complex data into clear, actionable insights on sales, costs, profits, and performance across markets and segments.
 
 | Project | Description | Tools Used |
 | :--- | :--- | :--- |
