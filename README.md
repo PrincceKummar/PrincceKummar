@@ -43,7 +43,7 @@ Interactive Power BI dashboard transforming complex data into clear, actionable 
 | [Sales Analysis Dashboard in Power BI](https://github.com/PrincceKummar/Power_BI_Sales_dashboard_Project) | An interactive dashboard analyzing sales trends, top-performing products, regional performance, and KPIs. | Power BI, DAX,|
 | [Retail Mega Market Power-BI Dashboard](https://github.com/PrincceKummar/Retail_Mega-Market_Power-BI_dashboard?tab=readme-ov-file) | Power BI dashboard analyzing retail sales, customer behavior, and returns to drive data-informed business decisions. | Power BI, Data Modeling,|
 | [Global Financial Performance Dashboard](https://github.com/PrincceKummar/Global-Financial-Performance-Dashboard) | Built an interactive finance dashboard transforming complex financial data into clear, actionable insights on sales, costs, profits, and performance across markets and segments. | Power BI, DAX |
-| [ABC Bank Customer Insights & Balance Analytics Dashboard](https://github.com/PrincceKummar/Employee-Performance-Tracker) | Interactive Power BI dashboard analyzing ABC Bank’s customer demographics, geography, and balance distribution. | Power BI, DAX, Data Modeling,|
+| [ABC Bank Customer Insights & Balance Analytics Dashboard]([https://github.com/PrincceKummar/Employee-Performance-Tracker](https://github.com/PrincceKummar/ABC-Bank-Customer-Insights-Balance-Analytics-Dashboard)) | Interactive Power BI dashboard analyzing ABC Bank’s customer demographics, geography, and balance distribution. | Power BI, DAX, Data Modeling,|
 
 # 👀 Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/PrincceKummar/count.svg)
