@@ -21,6 +21,17 @@
 - **Email:** [princcekummar9@gmail.com]
 - **GitHub:** [https://github.com/PrincceKummar](https://github.com/PrincceKummar)
 
+# 🌟 Featured Projects
+Interactive Power BI dashboard transforming complex data into clear, actionable insights on sales, costs, profits, and performance across markets and segments.
+
+| Project | Description | Tools Used |
+| :--- | :--- | :--- |
+| [Sales Analysis Dashboard in Power BI](https://github.com/PrincceKummar/Power_BI_Sales_dashboard_Project) | An interactive dashboard analyzing sales trends, top-performing products, regional performance, and KPIs. | Power BI, DAX,|
+| [Retail Mega Market Power-BI Dashboard](https://github.com/PrincceKummar/Retail_Mega-Market_Power-BI_dashboard?tab=readme-ov-file) | Power BI dashboard analyzing retail sales, customer behavior, and returns to drive data-informed business decisions. | Power BI, Data Modeling,|
+| [Global Financial Performance Dashboard](https://github.com/PrincceKummar/Global-Financial-Performance-Dashboard) | Built an interactive finance dashboard transforming complex financial data into clear, actionable insights on sales, costs, profits, and performance across markets and segments. | Power BI, DAX |
+| [ABC Bank Customer Insights & Balance Analytics Dashboard](https://github.com/PrincceKummar/ABC-Bank-Customer-Insights-Balance-Analytics-Dashboard) | Interactive Power BI dashboard analyzing ABC Bank’s customer demographics, geography, and balance distribution. | Power BI, DAX, Data Modeling,|
+| [Workforce360: HR Analytics Dashboard](https://github.com/PrincceKummar/Workforce360-HR-Analytics-Dashboard)| Interactive Power BI dashboard analyzing workforce trends, employee turnover, gender distribution, and staffing forecasts across multiple U.S. locations. | Power BI, Excel,|
+
 # ✨ Fun Fact:
 > I believe that "A good dashboard not only shows the data — it tells a story behind the numbers."
 
@@ -33,20 +44,6 @@ You can add this code at the bottom of your README for auto-updating stats:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PrincceKummar&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
-
-# 🌟 Featured Projects
-
-
-
-Interactive Power BI dashboard transforming complex data into clear, actionable insights on sales, costs, profits, and performance across markets and segments.
-
-| Project | Description | Tools Used |
-| :--- | :--- | :--- |
-| [Sales Analysis Dashboard in Power BI](https://github.com/PrincceKummar/Power_BI_Sales_dashboard_Project) | An interactive dashboard analyzing sales trends, top-performing products, regional performance, and KPIs. | Power BI, DAX,|
-| [Retail Mega Market Power-BI Dashboard](https://github.com/PrincceKummar/Retail_Mega-Market_Power-BI_dashboard?tab=readme-ov-file) | Power BI dashboard analyzing retail sales, customer behavior, and returns to drive data-informed business decisions. | Power BI, Data Modeling,|
-| [Global Financial Performance Dashboard](https://github.com/PrincceKummar/Global-Financial-Performance-Dashboard) | Built an interactive finance dashboard transforming complex financial data into clear, actionable insights on sales, costs, profits, and performance across markets and segments. | Power BI, DAX |
-| [ABC Bank Customer Insights & Balance Analytics Dashboard](https://github.com/PrincceKummar/ABC-Bank-Customer-Insights-Balance-Analytics-Dashboard) | Interactive Power BI dashboard analyzing ABC Bank’s customer demographics, geography, and balance distribution. | Power BI, DAX, Data Modeling,|
-| [Workforce360: HR Analytics Dashboard](https://github.com/PrincceKummar/Workforce360-HR-Analytics-Dashboard)| Interactive Power BI dashboard analyzing workforce trends, employee turnover, gender distribution, and staffing forecasts across multiple U.S. locations. | Power BI, Excel,|
 
 # 👀 Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/PrincceKummar/count.svg)
